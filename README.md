@@ -1,6 +1,6 @@
 # facial_liveness_detection_flutter_demo
 
-人脸活体检测 flutter 插件样例工程 ， 插件地址： ![][https://pub.dev/packages/facial_liveness_detection_flutter_plugin]
+人脸活体检测 flutter 插件样例工程 ， 插件地址： https://pub.dev/packages/facial_liveness_detection_flutter_plugin
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ allprojects {
 
 1. 增加摄像机权限，如下
 
-![照片][imgs/WechatIMG534.jpg]
+![照片](imgs/WechatIMG534.jpg)
 
 
 

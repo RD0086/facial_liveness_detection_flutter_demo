@@ -46,4 +46,4 @@ qq: 3626921591
 电话：13691664797
 邮箱：reid.li@foxmail.com
 ```
-![wechatqrcode](http://open.esandcloud.com/index.php/s/Lgxsc4ll9DLHvbR/download)
+![wechatqrcode](imgs/qrcode.jpeg)

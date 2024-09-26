@@ -56,7 +56,7 @@ packages:
       name: facial_liveness_detection_flutter_plugin
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.0"
+    version: "1.2.1"
   fake_async:
     dependency: transitive
     description:

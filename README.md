@@ -7,6 +7,8 @@
 ![demo](imgs/demo.gif)
 
 
+- H5 体验DEMO链接 ： https://dev.esandcloud.com/h5demo/esand/living
+
 ## Getting Started
 
 1. 增加插件依赖 :   flutter pub add facial_liveness_detection_flutter_plugin   
